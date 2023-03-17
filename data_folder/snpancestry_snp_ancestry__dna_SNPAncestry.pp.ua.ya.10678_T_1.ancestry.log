@@ -1,0 +1,207 @@
+making input file for getting genotype likelihoods
+calculating genotype likelihoods for bam file /data/filter_chrom_reads__short_insert__dna_FilterChromReads_FilterLongInsertExonicReads.10678_T_1.short_insert.converted.bam.sorted.bam poolsize is:  2
+
+ extracting reads covering SNPs from bamfile /data/filter_chrom_reads__short_insert__dna_FilterChromReads_FilterLongInsertExonicReads.10678_T_1.short_insert.converted.bam.sorted.bam minQV 13 minMQ 30 maxIS 1000 
+
+read 249034 variants from file /data/output/snpancestry_snp_ancestry__dna_SNPAncestry.en.oz.qk.10678_T_1_S85611.forGLL
+read 249034 variants from file /data/output/snpancestry_snp_ancestry__dna_SNPAncestry.en.oz.qk.10678_T_1_S85611.forGLL chromosomes 25
+reading sorted bamfile /data/filter_chrom_reads__short_insert__dna_FilterChromReads_FilterLongInsertExonicReads.10678_T_1.short_insert.converted.bam.sorted.bam 
+processed 2000000 reads, useful fragments 25911
+processed 4000000 reads, useful fragments 54131
+processed 6000000 reads, useful fragments 80340
+processed 8000000 reads, useful fragments 109441
+processed 10000000 reads, useful fragments 136792
+processed 12000000 reads, useful fragments 167457
+processed 14000000 reads, useful fragments 204043
+processed 16000000 reads, useful fragments 233612
+processed 18000000 reads, useful fragments 264956
+processed 20000000 reads, useful fragments 295973
+processed 22000000 reads, useful fragments 328275
+processed 24000000 reads, useful fragments 358321
+processed 26000000 reads, useful fragments 389870
+processed 28000000 reads, useful fragments 421772
+processed 30000000 reads, useful fragments 451270
+processed 32000000 reads, useful fragments 480313
+processed 34000000 reads, useful fragments 512429
+processed 36000000 reads, useful fragments 549641
+processed 38000000 reads, useful fragments 587047
+processed 40000000 reads, useful fragments 623219
+did not find match for chrom: chrX in hashtable 
+did not find match for chrom: chrY in hashtable 
+did not find match for chrom: chrM in hashtable 
+did not find match for chrom: GL000008.2 in hashtable 
+did not find match for chrom: GL000009.2 in hashtable 
+did not find match for chrom: GL000194.1 in hashtable 
+did not find match for chrom: GL000195.1 in hashtable 
+did not find match for chrom: GL000205.2 in hashtable 
+did not find match for chrom: GL000208.1 in hashtable 
+did not find match for chrom: GL000213.1 in hashtable 
+did not find match for chrom: GL000214.1 in hashtable 
+did not find match for chrom: GL000216.2 in hashtable 
+did not find match for chrom: GL000218.1 in hashtable 
+did not find match for chrom: GL000219.1 in hashtable 
+did not find match for chrom: GL000220.1 in hashtable 
+did not find match for chrom: GL000221.1 in hashtable 
+did not find match for chrom: GL000224.1 in hashtable 
+did not find match for chrom: GL000225.1 in hashtable 
+did not find match for chrom: KQ759759.1 in hashtable 
+did not find match for chrom: KN538364.1 in hashtable 
+did not find match for chrom: JH159136.1 in hashtable 
+did not find match for chrom: JH159137.1 in hashtable 
+did not find match for chrom: KZ208923.1 in hashtable 
+did not find match for chrom: KZ208924.1 in hashtable 
+did not find match for chrom: KN196484.1 in hashtable 
+did not find match for chrom: KN196487.1 in hashtable 
+did not find match for chrom: KV880767.1 in hashtable 
+did not find match for chrom: KZ559109.1 in hashtable 
+did not find match for chrom: KQ090022.1 in hashtable 
+did not find match for chrom: KN196480.1 in hashtable 
+did not find match for chrom: KN196483.1 in hashtable 
+did not find match for chrom: KZ559113.1 in hashtable 
+did not find match for chrom: KN538372.1 in hashtable 
+did not find match for chrom: KQ090021.1 in hashtable 
+did not find match for chrom: KZ208922.1 in hashtable 
+did not find match for chrom: KQ458386.1 in hashtable 
+did not find match for chrom: KZ208915.1 in hashtable 
+did not find match for chrom: KV880768.1 in hashtable 
+did not find match for chrom: GL383545.1 in hashtable 
+did not find match for chrom: KI270830.1 in hashtable 
+did not find match for chrom: KI270832.1 in hashtable 
+did not find match for chrom: KI270902.1 in hashtable 
+did not find match for chrom: KI270903.1 in hashtable 
+did not find match for chrom: KI270927.1 in hashtable 
+did not find match for chrom: GL877875.1 in hashtable 
+did not find match for chrom: GL383550.2 in hashtable 
+did not find match for chrom: KZ208918.1 in hashtable 
+did not find match for chrom: KI270840.1 in hashtable 
+did not find match for chrom: KQ090024.1 in hashtable 
+did not find match for chrom: KI270846.1 in hashtable 
+did not find match for chrom: KI270905.1 in hashtable 
+did not find match for chrom: KI270850.1 in hashtable 
+did not find match for chrom: KQ031389.1 in hashtable 
+did not find match for chrom: KI270853.1 in hashtable 
+did not find match for chrom: GL383556.1 in hashtable 
+did not find match for chrom: GL383557.1 in hashtable 
+did not find match for chrom: KI270856.1 in hashtable 
+did not find match for chrom: KQ090027.1 in hashtable 
+did not find match for chrom: KQ090026.1 in hashtable 
+did not find match for chrom: KZ208921.1 in hashtable 
+did not find match for chrom: KI270909.1 in hashtable 
+did not find match for chrom: KV766197.1 in hashtable 
+did not find match for chrom: KZ559114.1 in hashtable 
+did not find match for chrom: KV766198.1 in hashtable 
+did not find match for chrom: JH159146.1 in hashtable 
+did not find match for chrom: JH159147.1 in hashtable 
+did not find match for chrom: KI270857.1 in hashtable 
+did not find match for chrom: KZ559116.1 in hashtable 
+did not find match for chrom: GL383568.1 in hashtable 
+did not find match for chrom: GL383571.1 in hashtable 
+did not find match for chrom: KQ458385.1 in hashtable 
+did not find match for chrom: KI270884.1 in hashtable 
+did not find match for chrom: GL949752.1 in hashtable 
+did not find match for chrom: KI270867.1 in hashtable 
+did not find match for chrom: KI270938.1 in hashtable 
+did not find match for chrom: KI270868.1 in hashtable 
+did not find match for chrom: KI270760.1 in hashtable 
+did not find match for chrom: KI270766.1 in hashtable 
+did not find match for chrom: KQ458382.1 in hashtable 
+did not find match for chrom: GL383520.2 in hashtable 
+did not find match for chrom: KQ458383.1 in hashtable 
+did not find match for chrom: KI270765.1 in hashtable 
+did not find match for chrom: KI270869.1 in hashtable 
+did not find match for chrom: KI270871.1 in hashtable 
+did not find match for chrom: GL383578.2 in hashtable 
+did not find match for chrom: GL383580.2 in hashtable 
+did not find match for chrom: GL383581.2 in hashtable 
+did not find match for chrom: KI270877.1 in hashtable 
+did not find match for chrom: KI270878.1 in hashtable 
+did not find match for chrom: KI270772.1 in hashtable 
+did not find match for chrom: KI270894.1 in hashtable 
+did not find match for chrom: JH636055.2 in hashtable 
+did not find match for chrom: GL383526.1 in hashtable 
+did not find match for chrom: KI270779.1 in hashtable 
+did not find match for chrom: KI270783.1 in hashtable 
+did not find match for chrom: KZ208909.1 in hashtable 
+did not find match for chrom: KI270780.1 in hashtable 
+did not find match for chrom: KI270924.1 in hashtable 
+did not find match for chrom: KZ559105.1 in hashtable 
+did not find match for chrom: KI270935.1 in hashtable 
+did not find match for chrom: KZ559101.1 in hashtable 
+did not find match for chrom: GL383527.1 in hashtable 
+did not find match for chrom: KI270787.1 in hashtable 
+did not find match for chrom: KI270896.1 in hashtable 
+did not find match for chrom: GL949742.1 in hashtable 
+did not find match for chrom: GL383530.1 in hashtable 
+did not find match for chrom: GL383533.1 in hashtable 
+did not find match for chrom: KI270758.1 in hashtable 
+did not find match for chrom: GL000251.2 in hashtable 
+did not find match for chrom: GL000252.2 in hashtable 
+did not find match for chrom: GL000253.2 in hashtable 
+did not find match for chrom: GL000254.2 in hashtable 
+did not find match for chrom: GL000255.2 in hashtable 
+did not find match for chrom: GL000256.2 in hashtable 
+did not find match for chrom: KI270809.1 in hashtable 
+did not find match for chrom: KI270803.1 in hashtable 
+did not find match for chrom: KI270900.1 in hashtable 
+did not find match for chrom: KI270819.1 in hashtable 
+did not find match for chrom: KI270901.1 in hashtable 
+did not find match for chrom: KI270821.1 in hashtable 
+did not find match for chrom: GL383542.1 in hashtable 
+did not find match for chrom: KI270913.1 in hashtable 
+did not find match for chrom: KV766199.1 in hashtable 
+did not find match for chrom: KI270333.1 in hashtable 
+did not find match for chrom: KI270435.1 in hashtable 
+did not find match for chrom: KI270438.1 in hashtable 
+did not find match for chrom: KI270442.1 in hashtable 
+did not find match for chrom: KI270448.1 in hashtable 
+did not find match for chrom: KI270467.1 in hashtable 
+did not find match for chrom: KI270512.1 in hashtable 
+did not find match for chrom: KI270519.1 in hashtable 
+did not find match for chrom: KI270538.1 in hashtable 
+did not find match for chrom: KI270584.1 in hashtable 
+did not find match for chrom: KI270706.1 in hashtable 
+did not find match for chrom: KI270708.1 in hashtable 
+did not find match for chrom: KI270709.1 in hashtable 
+did not find match for chrom: KI270710.1 in hashtable 
+did not find match for chrom: KI270711.1 in hashtable 
+did not find match for chrom: KI270712.1 in hashtable 
+did not find match for chrom: KI270713.1 in hashtable 
+did not find match for chrom: KI270714.1 in hashtable 
+did not find match for chrom: KI270717.1 in hashtable 
+did not find match for chrom: KI270718.1 in hashtable 
+did not find match for chrom: KI270719.1 in hashtable 
+did not find match for chrom: KI270720.1 in hashtable 
+did not find match for chrom: KI270722.1 in hashtable 
+did not find match for chrom: KI270723.1 in hashtable 
+did not find match for chrom: KI270724.1 in hashtable 
+did not find match for chrom: KI270726.1 in hashtable 
+did not find match for chrom: KI270728.1 in hashtable 
+did not find match for chrom: KI270729.1 in hashtable 
+did not find match for chrom: KI270730.1 in hashtable 
+did not find match for chrom: KI270731.1 in hashtable 
+did not find match for chrom: KI270732.1 in hashtable 
+did not find match for chrom: KI270733.1 in hashtable 
+did not find match for chrom: KI270735.1 in hashtable 
+did not find match for chrom: KI270736.1 in hashtable 
+did not find match for chrom: KI270742.1 in hashtable 
+did not find match for chrom: KI270743.1 in hashtable 
+did not find match for chrom: KI270744.1 in hashtable 
+did not find match for chrom: KI270746.1 in hashtable 
+did not find match for chrom: KI270749.1 in hashtable 
+did not find match for chrom: KI270750.1 in hashtable 
+did not find match for chrom: KI270751.1 in hashtable 
+did not find match for chrom: KI270757.1 in hashtable 
+making input file for ancestry calculations
+ancestry admixture calculations for /data/filter_chrom_reads__short_insert__dna_FilterChromReads_FilterLongInsertExonicReads.10678_T_1.short_insert.converted.bam.sorted.bam poolsize is  2
+contribution of ancestry from pop CHD is not significant: delta 0.140535 admixture_prop 0.044681
+contribution of ancestry from pop LWK is not significant: delta 1.269750 admixture_prop 0.074583
+contribution of ancestry from pop JPT is not significant: delta 7.166828 admixture_prop 0.039210
+
+final maxval -10904.018431 ADMIX_PROP YRI:0.669759 CHB:0.000000 CHD:0.000000 TSI:0.000000 MKK:0.160655 LWK:0.000000 CEU:0.169586 JPT:0.000000 
+YRI:0.6698:109.29 CHB:0.0000:0.00 CHD:0.0000:0.14 TSI:0.0000:0.00 MKK:0.1607:34.47 LWK:0.0000:1.27 CEU:0.1696:53.28 JPT:0.0000:7.17 FINAL_ALL_PROPS
+YRI:0.6698:109.29 MKK:0.1607:34.47 CEU:0.1696:53.28 FINAL_NZ_PROPS bins 200 ssq 23.657970
+LL -10904.018431 LL_exp -9881.900388 78.087797 0.874
+
+real	0m0.653s
+user	0m0.650s
+sys	0m0.003s

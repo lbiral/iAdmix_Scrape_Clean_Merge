@@ -1,0 +1,22 @@
+making input file for getting genotype likelihoods
+calculating genotype likelihoods for bam file /data/filter_chrom_reads__short_insert__dna_FilterChromReads_FilterLongInsertExonicReads.19376_T_1.short_insert.converted.bam.sorted.bam poolsize is:  2
+
+ extracting reads covering SNPs from bamfile /data/filter_chrom_reads__short_insert__dna_FilterChromReads_FilterLongInsertExonicReads.19376_T_1.short_insert.converted.bam.sorted.bam minQV 13 minMQ 30 maxIS 1000 
+
+read 249034 variants from file /data/output/snpancestry_snp_ancestry__dna_SNPAncestry.pp.ua.ya.19376_T_1_S86584.forGLL
+read 249034 variants from file /data/output/snpancestry_snp_ancestry__dna_SNPAncestry.pp.ua.ya.19376_T_1_S86584.forGLL chromosomes 25
+reading sorted bamfile /data/filter_chrom_reads__short_insert__dna_FilterChromReads_FilterLongInsertExonicReads.19376_T_1.short_insert.converted.bam.sorted.bam 
+open: No such file or directory
+Fail to open BAM file /data/filter_chrom_reads__short_insert__dna_FilterChromReads_FilterLongInsertExonicReads.19376_T_1.short_insert.converted.bam.sorted.bam
+making input file for ancestry calculations
+ancestry admixture calculations for /data/filter_chrom_reads__short_insert__dna_FilterChromReads_FilterLongInsertExonicReads.19376_T_1.short_insert.converted.bam.sorted.bam poolsize is  2
+difficult to estimate admixture coefficients with high confidence
+
+final maxval 0.000000 ADMIX_PROP YRI:0.229906 CHB:0.025853 CHD:0.143814 TSI:0.045855 MKK:0.075301 LWK:0.085767 CEU:0.251703 JPT:0.141800 
+YRI:0.2299:0.00 CHB:0.0259:0.00 CHD:0.1438:0.00 TSI:0.0459:0.00 MKK:0.0753:0.00 LWK:0.0858:0.00 CEU:0.2517:0.00 JPT:0.1418:0.00 FINAL_ALL_PROPS
+YRI:0.2299:0.00 CHB:0.0259:0.00 CHD:0.1438:0.00 TSI:0.0459:0.00 MKK:0.0753:0.00 LWK:0.0858:0.00 CEU:0.2517:0.00 JPT:0.1418:0.00 FINAL_NZ_PROPS bins 200 ssq 0.000000
+LL 0.000000 LL_exp 0.000000 0.000000 -nan
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
