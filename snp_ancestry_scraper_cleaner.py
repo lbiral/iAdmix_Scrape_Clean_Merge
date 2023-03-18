@@ -43,9 +43,9 @@ if 'difficult to estimate admixture coefficients with high confidence' in f_text
     uncertain = 1
 
 #Find number of useful fragments
-copy = f_text
 no_useful_fragments = 0
 if failure == 0:
+    copy = f_text
     while 'useful fragments' in copy:
         index = copy.index('useful fragments')
         copy = copy[index + len('useful fragments '):]
