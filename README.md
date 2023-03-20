@@ -9,9 +9,8 @@ A python script that, given an iAdmix log file, scrapes key data and outputs a .
 3. Aggregated ancestry proportions for meta-populations (European, African, and Asian)
 4. Calculated race heuristic result
 5. Calculated ethnicity heuristic result
-6. Warning that iAdmix failed to open the input BAM file
-7. Warning that the iAdmix ancestry estimations are low confidence
-8. The number of useful fragments iAdmix used to perform the ancestry estimations
+6. Warning that the iAdmix ancestry estimations are low confidence
+7. The number of useful fragments iAdmix used to perform the ancestry estimations
 #### snp_ancestry_merger.py
 A python script that, given a directory containing output files from clean_ancestry.py, outputs a .csv file containing all the data from each of the snp_ancestry_scraper_cleaner.py output files. 
 #### data_folder
