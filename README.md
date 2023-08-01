@@ -22,7 +22,7 @@ Oh really?
 ## Running the Program
 snp_ancestry_scraper_cleaner.py can be run in the command line and has the following required arguments: 
 1. -f, --input_filename: the name of the iAdmix log file.
-2. -o, --output_filenam: the name you want to give to the .csv file that gets outputted. You must include .csv when defining this argument.
+2. -o, --output_filename: the name you want to give to the .csv file that gets outputted. You must include .csv when defining this argument.
 
 If you want to run the program in the command line on one of the samples in data_folder and write the output to a .csv file named single_output.csv, you would use the following command:
 
